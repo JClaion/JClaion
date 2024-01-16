@@ -21,4 +21,6 @@ Busco aprender e dominar Java, C++ e JS.
 
 ### Meus Principais Desafios de Projeto DIO
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Jclaion&repo=dio-lab-open-source&show_icons=true&icon_color=30A3DC&theme=swift)](https://github.com/Jclaion/dio-lab-open-source)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=JClaion&repo=Detona-Ralph-Dio&show_icons=true&icon_color=30A3DC&theme=swift)](https://github.com/JClaion/Detona-Ralph-Dio)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=JClaion&repo=Memory-Game&show_icons=true&icon_color=30A3DC&theme=swift)](https://github.com/JClaion/Memory-Game)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=JClaion&repo=js-yugioh-Jo-ken-po&show_icons=true&icon_color=30A3DC&theme=swift)](https://github.com/JClaion/js-yugioh-Jo-ken-po)
